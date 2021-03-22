@@ -1,0 +1,68 @@
+Generally speaking a bot is any software that performs an automated task, however we are interested in the class of bots that live online in chat platforms or on social media called chatbots.
+
+In this context there are many possible definitions and some confusion about what a bot is. This is partly because there are so many varied use cases for bots and these influence what people perceive a chatbot to be.
+
+The most intuitive definition is that a bot is software that can have a conversation with a human. For example a user could ask the bot a question or give it an instruction and the bot could respond or perform an action as appropriate.
+
+Misconceptions
+This definition however often leads to two potential misconceptions.
+
+The biggest misconception that arises is that a chatbot is a bot that converses with a human in the way that another human would converse with a human. Software or even a robot (the digital part of the robot is of course software) that communicates with a human in natural language is not difficult to imagine. Science fiction is full of examples.
+
+While this may the end goal, this is simply not possible using the current technology. Not only is it not possible, it often leads to unrealistic expectations regarding the chatbots capabilities and inevitable frustrations when those expectations are not met.
+
+The second misconception is that a chatbot communicates using only text or voice. Actually chatbots allow users to interact with them via graphical interfaces or graphical widgets, and the trend is in this direction. Many chat platforms including WeChat, Facebook Messenger and Kik allow web views on which developers can create completely customized graphical interfaces.
+
+Difference with applications
+It’s true that, the lines between applications and chatbots can become a little bit blurred if chatbots interact via a user interface. A chatbot however can be differentiated from an app in the way that the interactions with the bot take place, more or less sequentially (as a conversation), and the bot is used inside a chat app.
+
+Another obvious way in which a chatbot is different from an app is a little more reminiscent of the science fiction example, and that is the chatbot as metaphor for an automated agent. A chatbot unlike an app has a an “identity” that is actually separate from its interaction with the user. This is in the same way that the human agent exists independently of their interaction with customers. This metaphor can be extended to the point where a single chatbot could interact with the customer over several different communication channel such as but always maintaining
+
+In short a chatbot is another way of humans interacting with software. While there are overlaps with functionality offered by websites and apps, interacting with a chatbot is different to interacting with a website or with an app.
+
+It is true that in some sense messaging platforms are becoming universal mobile apps or app portals. Businesses want to find ways to deliver their messages and services in the place that the consumers are, which is on chat platforms. Chatbots give them a way to do this.
+
+Conversations
+The concept of the conversation is central to a chatbot. A chatbot can and does converse with a human but as mentioned previously it’s capabilities are limited. That is not to say however that in very narrows ways the text or voice based conversation can be as good or better than conversing with an actual human. Chatbots can have advantages over human agents. They are available 24/7 and they have access to a very broad array of information and functionality. They can also outperform humans in terms of the speed and accuracy in a narrow domain. The problem however is making sure the end users are aware these limitations.
+
+While chatbots have the capability to replace humans for certain tasks, they also can be used to augment what human agents can offer their clients. The chatbot can for example provide suggested responses for the human agent or bring up relevant information in a timely manner such as a video which the human agent can then act on. The fact that chatbots are used directly in a communication channel means that the collaboration between the bot and a human agent is far easier to achieve. This is another way that chatbots are differentiated from apps.
+
+Types of Chatbots
+To understand the nature of chatbot conversations it is important to understand that there are three types of chatbots.
+
+Scripted
+These are chatbots whose behaviour is determined by rules.
+
+Intelligent
+Intelligent chatbots are chatbots that are built with artificial intelligence techniques.
+
+Application
+As mentioned, both scripted and intelligent chatbots can have graphical user interfaces.
+
+Scripted chatbots. Conversations with this type of chatbot can only follow predetermined paths. At each step in the conversation the user will need to pick from explicit options to determine the next step in the conversation. How the options are presented to the user at each step in the conversation, i.e. whether they need a text, voice or touch response will depend on the features of the chat platform and how the bot is programmed that the user is on and the design of the bot.
+
+Intelligent chatbots. Artificial intelligence allows them to be more flexible in terms of the user input they can accept. They can accept free form input in the form of text or voice statements (but of course they are not limited to other forms of input if that makes sense). AI also allows them to improve the more that they are used. It should be noted however that although AI works very well in very limited knowledge domains, or for one off instructions, the actual intelligence of the bot is limited. It is extremely difficult to get a bot to “understand” context or ambiguity or to have a useful memory that influences the conversation.
+
+Application chatbots: As mentioned, both scripted and intelligent chatbots can have graphical user interfaces. Application bots is therefore not a separate category of bots per say. The fact that the bots can be interacted with using a graphical user interface is an important concept for chatbot developers. If a user can do the job they need to do more efficiently via a graphical interface then the bot needs to show a graphical interface at that point in the conversation.
+
+Get Botpress Now
+Platforms
+Chatbots work within chat platforms such a Facebook Messenger, Slack or SMS. Each chat platform has it’s own features. These features determine the possible ways in which the chatbot can interact with the user or the group or team, however the actual behaviour of the chatbot is determined by the bot itself.
+
+For example, an sms bot can only show text and attach multi-media widgets in some cases. An email bot has the same limitations. A Facebook Messenger or Telegram Bot can interact with the user using a variety of graphical widgets. A Facebook Messenger, Kik or Telegram bot can also give the user access to webviews, i.e. essentially allowing unlimited flexibility in terms of the user interface that can be offered to the user.
+
+Use cases
+Chatbots can be used in many different ways, which is the reason why it’s difficult to define exactly what they are. It is actually possible to come up with a chatbot use case for every single business or industry, in the same way that every business or industry can use a website or app.
+
+The following are some examples of chatbot applications out of the infinite possibilities:
+
+A takeaway restaurant allowing customers to order from a chatbot, either in the store or at home.
+A sit down restaurant allowing customers to order food from their table using a chatbot.
+A retail store offering promotions for customers in the shopping mall via the chatbot.
+A marketing campaign that asks customers questions or allows them to play a game using a chatbot.
+A chatbot that helps customers make ecommerce purchases.
+A chatbot that answers customer services questions and provides help with different tasks.
+A chatbot that monitors employees or customer’s satisfaction
+A chatbot that allows customers to book flights and receive relevant information when they are in the airport.
+All the above examples of chatbots could allow human agents to get involved in the conversation if necessary, perhaps as a premium service.
+
