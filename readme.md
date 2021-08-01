@@ -1,4 +1,4 @@
-## Depression and Anxiety Management System
+## Depression Anxiety and Stress Management System
 
 Mental health is often ignored and people are afraid of asking for help. College students, who go through a tremendous amount of stress throughout the year, sometimes need assistance.  DASM was built keeping this in mind.
 
